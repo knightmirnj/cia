@@ -89,3 +89,6 @@ unemployment_rate.csv
 ### Inspiration
 
 Every data scientist is different. What makes them different is each unique and special view that have on the provided datasets. Currently provided data will be visualized and analyzed by a team of two including deployment. However, please, as much as you can, also put your effort into it to make an even more unique analysis at the end.
+
+### Kaggle
+[https://www.kaggle.com/woosal1337/ciafactbook](https://www.kaggle.com/woosal1337/ciafactbook)
