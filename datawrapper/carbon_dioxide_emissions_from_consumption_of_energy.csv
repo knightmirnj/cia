@@ -1,0 +1,214 @@
+number,country,amount
+1,China,11670000000
+2,United States of America,5242000000
+3,India,2383000000
+4,Russian Federation,1847000000
+5,Japan,1268000000
+6,Germany,847600000
+7,Republic of Korea,778400000
+8,Saudi Arabia,657100000
+9,Canada,640600000
+10,Islamic Republic of Iran,638300000
+11,South Africa,572300000
+12,Indonesia,540700000
+13,Brazil,513800000
+14,Mexico,454100000
+15,Australia,439100000
+16,United Kingdom,424000000
+17,Turkey,379500000
+18,Poland,359000000
+19,Thailand,355000000
+20,Italy,351000000
+21,Taiwan,348800000
+22,France,341200000
+23,Kazakhstan,304600000
+24,United Arab Emirates,289400000
+25,Spain,286700000
+26,Netherlands,250200000
+27,Singapore,249500000
+28,Ukraine,238900000
+29,Vietnam,235300000
+30,Arab Republic of Egypt,232700000
+31,Malaysia,226800000
+32,Argentina,203700000
+33,Pakistan,179500000
+34,Algeria,135900000
+35,Belgium,134700000
+36,R. B. de Venezuela,129900000
+37,Iraq,117900000
+38,Philippines,117200000
+39,Czech Republic,115800000
+40,Qatar,114200000
+41,Kuwait,106500000
+42,Nigeria,104000000
+43,Hong Kong, SAR,102500000
+44,Turkmenistan,100500000
+45,Colombia,95590000
+46,Uzbekistan,95580000
+47,Chile,88230000
+48,Bangladesh,79970000
+49,Israel,73820000
+50,Romania,72070000
+51,Greece,69370000
+52,Oman,68940000
+53,Austria,63930000
+54,Belarus,56070000
+55,Peru,55940000
+56,Morocco,55400000
+57,Portugal,54970000
+58,Sweden,52310000
+59,Hungary,51280000
+60,Serbia,50210000
+61,Trinidad and Tobago,48920000
+62,Libya,46480000
+63,Bulgaria,46310000
+64,Finland,46010000
+65,Norway,39800000
+66,Switzerland,38950000
+67,Bahrain,37980000
+68,New Zealand,37750000
+69,Ecuador,37540000
+70,Denmark,37450000
+71,Ireland,36910000
+72,Azerbaijan,35600000
+73,Slovak Republic,34860000
+74,D. P. R. of Korea,27830000
+75,Syrian Arab Republic,27510000
+76,Jordan,27390000
+77,Myanmar,27010000
+78,Cuba,26940000
+79,Panama,26080000
+80,Sri Lanka,25190000
+81,Dominican Republic,23790000
+82,Tunisia,23420000
+83,Lebanon,23360000
+84,Bosnia and Herzegovina,22070000
+85,Angola,20950000
+86,Mongolia,19860000
+87,Puerto-Rico,19850000
+88,Kenya,17980000
+89,Croatia,17960000
+90,Bolivia,17660000
+91,Guatemala,17150000
+92,Sudan,16030000
+93,Tanzania,14570000
+94,Slovenia,14370000
+95,Republic of Yemen,13680000
+96,Ghana,13670000
+97,Lithuania,13490000
+98,Gibraltar,13340000
+99,Ethiopia,12180000
+100,Zimbabwe,12060000
+101,Côte d'Ivoire,11540000
+102,Mozambique,11120000
+103,Luxembourg,10720000
+104,Cambodia,10550000
+105,Lao People's Democratic Republic,10420000
+106,Kosovo,10050000
+107,Brunei Darussalam,10040000
+108,Kyrgyz Republic,10020000
+109,Georgia,9912000
+110,Honduras,9436000
+111,Afghanistan,9067000
+112,Jamaica,8900000
+113,Senegal,8644000
+114,Latvia,8632000
+115,Nepal,8396000
+116,Malta,8141000
+117,Paraguay,7740000
+118,Cyprus,7720000
+119,Cameroon,7672000
+120,Costa Rica,7653000
+121,Moldova,7653000
+122,Uruguay,7554000
+123,Macedonia,7459000
+124,El Salvador,7331000
+125,Mauritius,6429000
+126,Tajikistan,6329000
+127,Botswana,6235000
+128,New-Caledonia,6165000
+129,Papua New Guinea,6082000
+130,Benin,5664000
+131,Armenia,5501000
+132,Nicaragua,5405000
+133,Estonia,5306000
+134,Congo,5239000
+135,Uganda,4703000
+136,Albania,4500000
+137,Gabon,4293000
+138,Madagascar,4021000
+139,Namibia,3958000
+140,Zambia,3777000
+141,Haiti,3595000
+142,Burkina Faso,3421000
+143,Mali,3388000
+144,Iceland,3228000
+145,Democratic Republic of Congo,3146000
+146,West Bank and Gaza,3113000
+147,The Bahamas,3089000
+148,Equatorial Guinea,3062000
+149,Guinea,2794000
+150,Virgin-Islands,2764000
+151,Togo,2651000
+152,Western Sahara,2615000
+153,Macau, SAR,2563000
+154,Niger,2534000
+155,Fiji,2369000
+156,Montenegro,2287000
+157,Guam,2214000
+158,Guyana,2131000
+159,Suriname,2075000
+160,Barbados,1760000
+161,Maldives,1648000
+162,Aruba,1266000
+163,South Sudan,1224000
+164,Liberia,1163000
+165,Seychelles,1150000
+166,Eswatini,1140000
+167,Malawi,1082000
+168,French-Polynesia,1030000
+169,Rwanda,985600
+170,Sierra Leone,984800
+171,Djibouti,950200
+172,Cape Verde,867800
+173,Somalia,852500
+174,Bermuda,793700
+175,Antigua and Barbuda,740300
+176,Faroe-Islands,739300
+177,Lesotho,711100
+178,Cayman-Islands,643800
+179,Greenland (Den.),613800
+180,The Gambia,607300
+181,Bhutan,604900
+182,Eritrea,597100
+183,Belize,556700
+184,Timor-Leste,533400
+185,Jersey,450000
+186,Saint Lucia,437900
+187,Central African Republic,413800
+188,Guinea-Bissau,397900
+189,American-Samoa,361100
+190,Chad,342200
+191,Samoa,341100
+192,Marshall Islands,293700
+193,Grenada,283600
+194,Saint Kitts and Nevis,248100
+195,Solomon Islands,233500
+196,Saint Vincent and the Grenadines,226800
+197,Turks-and-Caicos-Islands,221800
+198,Burundi,217000
+199,Dominica,199600
+200,Comoros,193600
+201,British-Virgin-Islands,183300
+202,Vanuatu,164800
+203,São Tomé and Príncipe,148100
+204,Tonga,139700
+205,Saint-Pierre-and-Miquelon,100200
+206,Cook-Islands,88810
+207,Nauru,76540
+208,Kiribati,58850
+209,Montserrat,57180
+210,Falkland-Islands-(Islas-Malvinas),44070
+211,Saint-Helena-Ascension-and-Tristan-da-Cunha,10650
+212,Niue,7252
+213,Federated States of Micronesia,105

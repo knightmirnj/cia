@@ -1,0 +1,185 @@
+number,country,amount
+1,South Sudan,1150
+2,Chad,1140
+3,Sierra Leone,1120
+4,Nigeria,917
+5,Central African Republic,829
+6,Somalia,829
+7,Western Sahara,766
+8,Guinea-Bissau,667
+9,Guyana,667
+10,Liberia,661
+11,Afghanistan,638
+12,Côte d'Ivoire,617
+13,The Gambia,597
+14,Guinea,576
+15,Mali,562
+16,Burundi,548
+17,Lesotho,544
+18,Cameroon,529
+19,Tanzania,524
+20,Niger,509
+21,Eritrea,480
+22,Haiti,480
+23,Democratic Republic of Congo,473
+24,Zimbabwe,458
+25,Eswatini,437
+26,Ethiopia,401
+27,Benin,397
+28,Togo,396
+29,Congo,378
+30,Uganda,375
+31,Malawi,349
+32,Kenya,342
+33,Madagascar,335
+34,Burkina Faso,320
+35,Senegal,315
+36,Ghana,308
+37,Equatorial Guinea,301
+38,Sudan,295
+39,Mozambique,289
+40,Comoros,273
+41,Gabon,252
+42,Myanmar,250
+43,Djibouti,248
+44,Rwanda,248
+45,Angola,241
+46,Zambia,213
+47,Nicaragua,198
+48,Namibia,195
+49,Nepal,186
+50,Lao People's Democratic Republic,185
+51,Bhutan,183
+52,Indonesia,177
+53,Bangladesh,173
+54,Republic of Yemen,164
+55,Cambodia,160
+56,Bolivia,155
+57,India,145
+58,Papua New Guinea,145
+59,Botswana,144
+60,Timor-Leste,142
+61,Pakistan,140
+62,São Tomé and Príncipe,130
+63,R. B. de Venezuela,125
+64,Philippines,121
+65,Suriname,120
+66,South Africa,119
+67,Saint Lucia,117
+68,Algeria,112
+69,Solomon Islands,104
+70,Saint Vincent and the Grenadines,98
+71,Dominican Republic,95
+72,Guatemala,95
+73,Kiribati,92
+74,D. P. R. of Korea,89
+75,Federated States of Micronesia,88
+76,Peru,88
+77,Paraguay,84
+78,Colombia,83
+79,Jamaica,80
+80,Iraq,79
+81,Libya,72
+82,Vanuatu,72
+83,The Bahamas,70
+84,Morocco,70
+85,Trinidad and Tobago,67
+86,Honduras,65
+87,Mauritius,61
+88,Brazil,60
+89,Kyrgyz Republic,60
+90,Ecuador,59
+91,Cape Verde,58
+92,Maldives,53
+93,Panama,52
+94,Tonga,52
+95,El Salvador,46
+96,Jordan,46
+97,Mongolia,45
+98,Samoa,43
+99,Tunisia,43
+100,Vietnam,43
+101,Argentina,39
+102,Arab Republic of Egypt,37
+103,Thailand,37
+104,Belize,36
+105,Cuba,36
+106,Sri Lanka,36
+107,Fiji,34
+108,Mexico,33
+109,Brunei Darussalam,31
+110,Syrian Arab Republic,31
+111,China,29
+112,Lebanon,29
+113,Malaysia,29
+114,Uzbekistan,29
+115,Barbados,27
+116,Costa Rica,27
+117,Gaza-Strip,27
+118,West Bank and Gaza,27
+119,Armenia,26
+120,Azerbaijan,26
+121,Georgia,25
+122,Grenada,25
+123,Puerto-Rico,21
+124,Latvia,19
+125,Moldova,19
+126,Oman,19
+127,Romania,19
+128,Ukraine,19
+129,United States of America,19
+130,Russian Federation,17
+131,Saudi Arabia,17
+132,Tajikistan,17
+133,Turkey,17
+134,Uruguay,17
+135,Islamic Republic of Iran,16
+136,Albania,15
+137,Bahrain,14
+138,Chile,13
+139,Hungary,12
+140,Kuwait,12
+141,Serbia,12
+142,Republic of Korea,11
+143,Bosnia and Herzegovina,10
+144,Bulgaria,10
+145,Canada,10
+146,Kazakhstan,10
+147,Estonia,9
+148,New Zealand,9
+149,Qatar,9
+150,Croatia,8
+151,France,8
+152,Portugal,8
+153,Singapore,8
+154,Germany,7
+155,Macedonia,7
+156,Slovenia,7
+157,Turkmenistan,7
+158,United Kingdom,7
+159,Australia,6
+160,Cyprus,6
+161,Malta,6
+162,Montenegro,6
+163,Austria,5
+164,Belgium,5
+165,Ireland,5
+166,Japan,5
+167,Lithuania,5
+168,Luxembourg,5
+169,Netherlands,5
+170,Slovak Republic,5
+171,Switzerland,5
+172,Denmark,4
+173,Iceland,4
+174,Spain,4
+175,Sweden,4
+176,Czech Republic,3
+177,Finland,3
+178,Greece,3
+179,Israel,3
+180,United Arab Emirates,3
+181,Belarus,2
+182,Italy,2
+183,Norway,2
+184,Poland,2

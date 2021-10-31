@@ -1,0 +1,135 @@
+number,country,amount
+1,Eswatini,27.10
+2,Lesotho,23.10
+3,Botswana,22.20
+4,South Africa,17.30
+5,Zimbabwe,13.40
+6,Namibia,12.70
+7,Mozambique,12.10
+8,Zambia,12.10
+9,Malawi,9.50
+10,Equatorial Guinea,7.00
+11,Uganda,6.10
+12,Tanzania,5.10
+13,Kenya,4.80
+14,Central African Republic,3.60
+15,Gabon,3.60
+16,Guinea-Bissau,3.40
+17,Cameroon,3.20
+18,Congo,3.10
+19,Rwanda,2.90
+20,Côte d'Ivoire,2.70
+21,South Sudan,2.40
+22,Togo,2.30
+23,The Gambia,2.00
+24,Belize,1.90
+25,Haiti,1.90
+26,Angola,1.80
+27,The Bahamas,1.80
+28,Ghana,1.70
+29,Liberia,1.50
+30,Saint Vincent and the Grenadines,1.50
+31,Sierra Leone,1.50
+32,Guinea,1.40
+33,Guyana,1.40
+34,Jamaica,1.40
+35,Nigeria,1.30
+36,Suriname,1.30
+37,Burundi,1.20
+38,Chad,1.20
+39,Mali,1.20
+40,Russian Federation,1.20
+41,Antigua and Barbuda,1.10
+42,Barbados,1.10
+43,Ethiopia,1.10
+44,Benin,1.00
+45,Mauritius,1.00
+46,Djibouti,0.90
+47,Dominican Republic,0.90
+48,Estonia,0.90
+49,Panama,0.90
+50,Trinidad and Tobago,0.90
+51,Burkina Faso,0.80
+52,Democratic Republic of Congo,0.80
+53,Papua New Guinea,0.80
+54,Thailand,0.80
+55,Eritrea,0.70
+56,São Tomé and Príncipe,0.70
+57,Ukraine,0.70
+58,Myanmar,0.60
+59,Cape Verde,0.60
+60,Cambodia,0.60
+61,Dominica,0.60
+62,El Salvador,0.60
+63,Moldova,0.60
+64,Saint Lucia,0.60
+65,Uruguay,0.60
+66,Brazil,0.50
+67,Chile,0.50
+68,Colombia,0.50
+69,Grenada,0.50
+70,Portugal,0.50
+71,Saint Kitts and Nevis,0.50
+72,R. B. de Venezuela,0.50
+73,Argentina,0.40
+74,Belarus,0.40
+75,Costa Rica,0.40
+76,Ecuador,0.40
+77,Honduras,0.40
+78,Indonesia,0.40
+79,Malaysia,0.40
+80,Paraguay,0.40
+81,Peru,0.40
+82,Senegal,0.40
+83,Spain,0.40
+84,Bhutan,0.30
+85,Cuba,0.30
+86,France,0.30
+87,Georgia,0.30
+88,Guatemala,0.30
+89,Italy,0.30
+90,Lao People's Democratic Republic,0.30
+91,Latvia,0.30
+92,Luxembourg,0.30
+93,Niger,0.30
+94,Vietnam,0.30
+95,Bolivia,0.20
+96,Fiji,0.20
+97,Greece,0.20
+98,India,0.20
+99,Ireland,0.20
+100,Israel,0.20
+101,Kazakhstan,0.20
+102,Kyrgyz Republic,0.20
+103,Libya,0.20
+104,Madagascar,0.20
+105,Western Sahara,0.20
+106,Mexico,0.20
+107,Netherlands,0.20
+108,Nicaragua,0.20
+109,Singapore,0.20
+110,Sudan,0.20
+111,Sweden,0.20
+112,Switzerland,0.20
+113,Tajikistan,0.20
+114,Timor-Leste,0.20
+115,Uzbekistan,0.20
+116,Armenia,0.10
+117,Australia,0.10
+118,Austria,0.10
+119,Azerbaijan,0.10
+120,Cyprus,0.10
+121,Denmark,0.10
+122,Finland,0.10
+123,Germany,0.10
+124,Iceland,0.10
+125,Lithuania,0.10
+126,Malta,0.10
+127,Nepal,0.10
+128,Norway,0.10
+129,Oman,0.10
+130,Pakistan,0.10
+131,Philippines,0.10
+132,Qatar,0.10
+133,Romania,0.10
+134,Somalia,0.10

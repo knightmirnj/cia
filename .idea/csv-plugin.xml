@@ -472,6 +472,48 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/datawrapper/broadband_fixed_subscriptions.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datawrapper/carbon_dioxide_emissions_from_consumption_of_energy.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datawrapper/country_comparison_airports.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datawrapper/country_comparison_area.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datawrapper/country_comparison_children_under_the_age_of_5_years_underweight.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datawrapper/country_comparison_military_expenditures.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\datasets\internet_users.csv">
           <value>
             <Attribute>

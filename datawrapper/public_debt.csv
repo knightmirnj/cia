@@ -1,0 +1,211 @@
+number,country,amount
+1,Japan,237.60
+2,Greece,181.80
+3,Barbados,157.30
+4,Lebanon,146.80
+5,Italy,131.80
+6,Eritrea,131.20
+7,Congo,130.80
+8,Cape Verde,125.80
+9,Portugal,125.70
+10,Sudan,121.60
+11,Singapore,111.10
+12,Bhutan,106.30
+13,Belgium,103.40
+14,Arab Republic of Egypt,103.00
+15,Mozambique,102.10
+16,Jamaica,101.00
+17,Belize,99.00
+18,Spain,98.40
+19,Cyprus,97.50
+20,France,96.80
+21,Western Sahara,96.60
+22,Jordan,95.90
+23,Syrian Arab Republic,94.80
+24,Mongolia,91.40
+25,Canada,89.70
+26,Bahrain,88.50
+27,São Tomé and Príncipe,88.40
+28,The Gambia,88.00
+29,United Kingdom,87.50
+30,Antigua and Barbuda,86.80
+31,Aruba,86.00
+32,Brazil,84.00
+33,Dominica,82.70
+34,Zimbabwe,82.30
+35,Sri Lanka,79.10
+36,United States of America,78.80
+37,Austria,78.60
+38,Croatia,77.80
+39,Somalia,76.70
+40,Togo,75.70
+41,Republic of Yemen,74.50
+42,Saint Vincent and the Grenadines,73.80
+43,Hungary,73.60
+44,Slovenia,73.60
+45,Albania,71.80
+46,Ghana,71.80
+47,India,71.20
+48,Ukraine,71.00
+49,Saint Lucia,70.70
+50,Grenada,70.40
+51,Tunisia,70.30
+52,Suriname,69.30
+53,Ireland,68.60
+54,El Salvador,67.90
+55,Montenegro,67.20
+56,Pakistan,67.00
+57,Uruguay,65.70
+58,Morocco,65.10
+59,Angola,65.00
+60,Mauritius,64.00
+61,Germany,63.90
+62,Maldives,63.90
+63,Sierra Leone,63.90
+64,Lao People's Democratic Republic,63.60
+65,Seychelles,63.60
+66,Zambia,63.10
+67,Saint Kitts and Nevis,62.90
+68,Gabon,62.70
+69,South Sudan,62.70
+70,Serbia,62.50
+71,Nauru,62.00
+72,Finland,61.30
+73,Israel,60.90
+74,Iraq,59.70
+75,Malawi,59.20
+76,Vietnam,58.50
+77,Argentina,57.60
+78,Netherlands,56.50
+79,Kyrgyz Republic,56.00
+80,The Bahamas,54.60
+81,Benin,54.60
+82,Mexico,54.30
+83,Ethiopia,54.20
+84,Kenya,54.20
+85,Azerbaijan,54.10
+86,Malaysia,54.10
+87,Guinea-Bissau,53.90
+88,Qatar,53.80
+89,Armenia,53.50
+90,Belarus,53.40
+91,Virgin-Islands,53.30
+92,South Africa,53.00
+93,Central African Republic,52.90
+94,Chad,52.50
+95,Guyana,52.20
+96,Burundi,51.70
+97,Puerto-Rico,51.60
+98,Slovak Republic,50.90
+99,Malta,50.70
+100,Poland,50.60
+101,Tajikistan,50.40
+102,Colombia,49.40
+103,Samoa,49.10
+104,Bolivia,49.00
+105,Costa Rica,48.90
+106,Fiji,48.90
+107,Vanuatu,48.40
+108,Senegal,48.30
+109,Tonga,48.00
+110,Cuba,47.70
+111,China,47.00
+112,Côte d'Ivoire,47.00
+113,Oman,46.90
+114,Ecuador,45.40
+115,Niger,45.30
+116,Georgia,44.90
+117,Bermuda,43.00
+118,Thailand,41.90
+119,Switzerland,41.80
+120,Trinidad and Tobago,41.80
+121,Namibia,41.30
+122,Andorra,41.00
+123,Australia,40.80
+124,Sweden,40.80
+125,Rwanda,40.50
+126,Iceland,40.00
+127,Uganda,40.00
+128,Philippines,39.90
+129,Lithuania,39.70
+130,Bosnia and Herzegovina,39.50
+131,Honduras,39.50
+132,Islamic Republic of Iran,39.50
+133,Republic of Korea,39.50
+134,Macedonia,39.30
+135,R. B. de Venezuela,38.90
+136,Burkina Faso,38.10
+137,Guinea,37.90
+138,Panama,37.80
+139,Equatorial Guinea,37.40
+140,Dominican Republic,37.20
+141,Tanzania,37.00
+142,Tuvalu,37.00
+143,Cameroon,36.90
+144,Papua New Guinea,36.90
+145,Romania,36.80
+146,Norway,36.50
+147,Latvia,36.30
+148,Madagascar,36.00
+149,Taiwan,35.70
+150,Mali,35.40
+151,Denmark,35.30
+152,Faroe-Islands,35.00
+153,Czech Republic,34.70
+154,Liberia,34.40
+155,Lesotho,33.70
+156,Myanmar,33.60
+157,Nicaragua,33.30
+158,Curacao,33.20
+159,Bangladesh,33.10
+160,Comoros,32.40
+161,Djibouti,31.80
+162,New Zealand,31.70
+163,Moldova,31.50
+164,Haiti,31.10
+165,Cambodia,30.40
+166,Indonesia,28.80
+167,Turkmenistan,28.80
+168,Eswatini,28.40
+169,Turkey,28.30
+170,Algeria,27.50
+171,Nepal,26.40
+172,Kiribati,26.30
+173,Marshall Islands,25.50
+174,Peru,25.40
+175,Guatemala,24.70
+176,Federated States of Micronesia,24.50
+177,West Bank and Gaza,24.40
+178,Uzbekistan,24.30
+179,Palau,24.10
+180,San Marino,24.10
+181,Bulgaria,23.90
+182,Chile,23.60
+183,Luxembourg,23.00
+184,Guam,22.10
+185,Nigeria,21.80
+186,Kosovo,21.20
+187,Kazakhstan,20.80
+188,Kuwait,20.60
+189,Anguilla,20.10
+190,United Arab Emirates,19.70
+191,Paraguay,19.50
+192,Democratic Republic of Congo,18.10
+193,Saudi Arabia,17.20
+194,Russian Federation,15.50
+195,Botswana,14.00
+196,Greenland (Den.),13.00
+197,American-Samoa,12.20
+198,Solomon Islands,9.40
+199,Estonia,9.00
+200,Gibraltar,7.50
+201,Northern-Mariana-Islands,7.10
+202,Afghanistan,7.00
+203,New-Caledonia,6.50
+204,Wallis-and-Futuna,5.60
+205,Libya,4.70
+206,Timor-Leste,3.80
+207,Brunei Darussalam,2.80
+208,Hong Kong, SAR,0.10
+209,Falkland-Islands-(Islas-Malvinas),0.00
+210,Macau, SAR,0.00
