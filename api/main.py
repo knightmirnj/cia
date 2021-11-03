@@ -61,6 +61,10 @@ df = pd.read_csv("./cia-factbook.csv")
 
 @app.get("/")
 async def root():
+    """
+
+    :return: welcoming page returning Made by @woosal1337
+    """
     try:
         return {f"Made by @woosal1337"}
 
@@ -70,6 +74,10 @@ async def root():
 
 @app.get("/country")
 async def all_countries():
+    """
+
+    :return: list all the available `country` name values
+    """
     try:
         return countries
 
@@ -79,6 +87,10 @@ async def all_countries():
 
 @app.get("/field")
 async def all_fields():
+    """
+
+    :return: list all of the available `field` name values
+    """
     try:
         return fields
 
@@ -88,6 +100,11 @@ async def all_fields():
 
 @app.get("/country/{country}")
 async def read_item(country: str):
+    """
+
+    :param country:
+    :return: all of the field values according to the corresponding country
+    """
     try:
 
         if country not in countries:
@@ -111,7 +128,12 @@ async def read_item(country: str):
 
 
 @app.get("/field/{field}")
-async def read_item(field: str):
+async def return_field_values(field: str):
+    """
+
+    :param field:
+    :return: dictionary zipped with countries and their according field values
+    """
     try:
 
         if field not in fields:

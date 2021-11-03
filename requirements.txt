@@ -1,0 +1,9 @@
+pandas
+uvicorn
+fastapi
+numpy
+gunicorn
+pydantic
+websockets
+beautifulsoup4
+bs4
