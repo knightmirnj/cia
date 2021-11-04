@@ -82,6 +82,9 @@ telephones_mobile_cellular.csv
 unemployment_rate.csv
 ```
 
+### API
+Feel free to check [https://cia-factbook.herokuapp.com/](https://cia-factbook.herokuapp.com/) for the API page, and the API [docs](https://github.com/woosal1337/cia/tree/main/api) here.
+
 ### Acknowledgements
 
 [The CIA](https://www.cia.gov/the-world-factbook/) is for sure deserves all of the appreciation. Gathering this much data and most importantly making it public to everyone is whole another level. Deep respect and appreciation go to [the CIA](https://www.cia.gov/the-world-factbook/).
