@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CIA_logo_%282021%29.svg/1200px-CIA_logo_%282021%29.svg.png" width=20% />
   <h1>CIA</h1>
-  <h3>🐱‍💻 cia factbook data analysis and dataset reconstruction, modification, and tuning go here.</h3>
+  <h3>🐱‍💻 CIA Factbook data analysis and dataset reconstruction, modification, and tuning go here.</h3>
 </div>
 
 ### Context
